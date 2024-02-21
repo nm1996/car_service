@@ -1,4 +1,4 @@
-package car.service.book.dto;
+package com.cars.service.proto.common.dto;
 
 import lombok.Data;
 

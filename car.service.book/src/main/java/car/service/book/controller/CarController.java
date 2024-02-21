@@ -1,7 +1,7 @@
 package car.service.book.controller;
 
-import car.service.book.dto.CarDto;
 import car.service.book.service.CarService;
+import com.cars.service.proto.common.dto.CarDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

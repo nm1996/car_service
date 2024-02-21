@@ -1,7 +1,7 @@
 package car.service.book.service.impl;
 
-import car.service.book.dto.CarDto;
 import car.service.book.service.CarService;
+import com.cars.service.proto.common.dto.CarDto;
 import org.springframework.stereotype.Service;
 
 @Service
